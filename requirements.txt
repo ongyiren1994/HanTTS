@@ -4,3 +4,4 @@ pydub
 pyaudio
 requests
 argparse
+wheel
