@@ -24,6 +24,7 @@ A list of all Chinese characters is obtained from [倉頡平台2012](https://chi
 
 ```
 sudo apt-get install portaudio19-dev python3-pyaudio python3-dev
+sudo apt-get install pulseaudio jackd2 alsa-utils dbus-x11 ffmpeg
 git clone https://github.com/junzew/HanTTS.git
 cd HanTTS
 pip install --user -r requires.txt
